@@ -12,7 +12,6 @@
 
 ###
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=ffffff&multiline=true&width=1000&height=50&lines=Olá, sou o Renan 👋" alt="Typing SVG" />
 
 -----
 ### 👩‍💻 Sobre mim
@@ -47,7 +46,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=renanCrvlh0&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=RenanCrvlho&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
   
 <br>
