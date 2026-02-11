@@ -17,7 +17,7 @@
 ### 👩‍💻 Sobre mim
 <br>
 
-- 📱 Atualmente me dedicando ao mundo Mobile
+- 📱 Atualmente me dedicando ao mundo dos Dados 📊
 - 📚 Estou estudando PYTHON | EXCEL | POWER BI | SQL |
 <br>
 
