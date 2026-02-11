@@ -18,7 +18,7 @@
 <br>
 
 - 📱 Atualmente me dedicando ao mundo Mobile
-- 📚 Estou estudando DART | FLUTTER | REACT |
+- 📚 Estou estudando PYTHON | EXCEL | POWER BI | SQL |
 <br>
 
 -----
